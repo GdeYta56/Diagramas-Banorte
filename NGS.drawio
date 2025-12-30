@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UEzPUAAOIrF-is8g5C7q-74" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#FF3A00;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;strokeWidth=2;" value="AWS Banorte" vertex="1">
-          <mxGeometry height="480" width="644" x="170" y="100" as="geometry" />
+          <mxGeometry height="420" width="550" x="60" y="100" as="geometry" />
         </mxCell>
         <mxCell id="mjUmMvRCyObYZc_93aU9-3" edge="1" parent="UEzPUAAOIrF-is8g5C7q-74" source="WccO_N-ME6zbrRpK_sFJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="mjUmMvRCyObYZc_93aU9-1">
           <mxGeometry relative="1" as="geometry" />
@@ -63,7 +63,7 @@
           <mxGeometry height="360" width="425" x="61" y="39" as="geometry" />
         </mxCell>
         <mxCell id="WccO_N-ME6zbrRpK_sFJ-15" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#6666FF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;strokeWidth=2;" value="AWS NGS" vertex="1">
-          <mxGeometry height="480" width="230" x="690" y="100" as="geometry" />
+          <mxGeometry height="420" width="230" x="690" y="100" as="geometry" />
         </mxCell>
         <mxCell id="WccO_N-ME6zbrRpK_sFJ-27" edge="1" parent="WccO_N-ME6zbrRpK_sFJ-15" source="WccO_N-ME6zbrRpK_sFJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WccO_N-ME6zbrRpK_sFJ-25">
           <mxGeometry relative="1" as="geometry" />
@@ -79,9 +79,6 @@
         </mxCell>
         <mxCell id="WccO_N-ME6zbrRpK_sFJ-29" parent="WccO_N-ME6zbrRpK_sFJ-15" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="s3://d7-bnrt-files/AUTOS_VARIOS/" vertex="1">
           <mxGeometry height="30" width="210" x="10" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mjUmMvRCyObYZc_93aU9-6" parent="WccO_N-ME6zbrRpK_sFJ-15" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=light-dark(#FF3399,#4A4E52);fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;" value="VPC" vertex="1">
-          <mxGeometry height="360" width="210" x="10" y="40" as="geometry" />
         </mxCell>
         <mxCell id="mjUmMvRCyObYZc_93aU9-9" edge="1" parent="1" source="mjUmMvRCyObYZc_93aU9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WccO_N-ME6zbrRpK_sFJ-24">
           <mxGeometry relative="1" as="geometry">
@@ -99,6 +96,9 @@
         </mxCell>
         <mxCell id="lFlsyPF35gXoM-jvbD4Y-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_pack-2971/14-Zip_File-Time-1279.svg" value="" vertex="1">
           <mxGeometry height="32" width="32" x="108" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="mjUmMvRCyObYZc_93aU9-6" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=light-dark(#FF3399,#4A4E52);fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;" value="VPC" vertex="1">
+          <mxGeometry height="360" width="210" x="699" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
